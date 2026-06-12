@@ -186,7 +186,7 @@ Production-grade polling and quiz platform with live WebSocket sync, anti-cheat 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayush-Panda-design&color=c8430f&style=flat-square&label=Profile+Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayush-Panda-design.Ayush-Panda-design&left_color=1a1410&right_color=c8430f&left_text=Profile%20Views" />
 </p>
 
 <p align="center">
