@@ -22,12 +22,13 @@
 
 ## About Me
 
-CS undergrad at **VSSUT, Burla** (4th semester), focused on full-stack web development with a strong bias toward type-safety, sensible architecture, and shipping things that actually run in production.
+CS undergrad at **VSSUT, Burla** (4th semester). I build full-stack web apps end-to-end — data model, API, frontend, infra — with a strong bias toward type-safety and shipping things that actually hold up in production.
 
-I go end-to-end — data model, API, frontend, infra. I care about performance, DX, and the details that separate a demo from a product.
+I've shipped **many projects** across the stack, ranging from quick experiments to full production systems. My two production-grade products (**EdinForm** and **Votora**) handle real concerns: auth flows, WebSocket sync, rate limiting, caching, CI/CD, and analytics. Most of my backend work lives on **MongoDB** or **PostgreSQL** depending on the data model — I'm comfortable with both and pick what fits.
 
-- 🚀 **3+ projects** shipped with real production concerns: auth, rate limiting, caching, CI/CD
-- 🔍 Deep focus on **TypeScript**, **Next.js**, and **PostgreSQL**-backed systems
+- 🏗️ **Many projects shipped** — quick builds, SaaS tools, real-time apps, REST APIs, and more
+- ⚙️ Production experience with **auth, WebSockets, rate limiting, caching, CI/CD, and analytics**
+- 🗄️ Fluent in **MongoDB** and **PostgreSQL** — document models and relational, whatever the problem calls for
 - 🤖 Building with **Generative AI** — integrating LLMs into real product workflows
 - ✍️ I write about what I build on [Hashnode](https://hashnode.com/@Ayush-Panda)
 
