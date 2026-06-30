@@ -195,12 +195,16 @@ Always happy to collaborate on interesting projects
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Panda-design&show_icons=true&theme=radical&hide_border=true&title_color=c8430f&icon_color=c8430f&text_color=c8c0b8&bg_color=1a1410&cache_seconds=86400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Panda-design&layout=compact&theme=radical&hide_border=true&title_color=c8430f&text_color=c8c0b8&bg_color=1a1410&langs_count=8&cache_seconds=86400" height="165" />
+  <img src="https://img.shields.io/github/followers/Ayush-Panda-design?style=for-the-badge&color=c8430f&labelColor=1a1410&label=Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=c8430f&labelColor=1a1410&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Ayush-Panda-design" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ayush-Panda-design&theme=radical&hide_border=true&background=1A1410&ring=C8430F&fire=C8430F&currStreakLabel=C8430F" height="165" />
+</p>
+
+<p align="center">
+  <em>Live commit / PR / language breakdown is temporarily unavailable due to an outage on the public stats service — will restore once it's back up.</em>
 </p>
 
 <br/>
