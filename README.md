@@ -195,8 +195,8 @@ Always happy to collaborate on interesting projects
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Panda-design&show_icons=true&count_private=true&theme=radical&hide_border=true&title_color=c8430f&icon_color=c8430f&text_color=c8c0b8&bg_color=1a1410" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Panda-design&layout=compact&theme=radical&hide_border=true&title_color=c8430f&text_color=c8c0b8&bg_color=1a1410" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Panda-design&show_icons=true&theme=radical&hide_border=true&title_color=c8430f&icon_color=c8430f&text_color=c8c0b8&bg_color=1a1410" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Panda-design&layout=compact&theme=radical&hide_border=true&title_color=c8430f&text_color=c8c0b8&bg_color=1a1410&langs_count=8" height="165" />
 </p>
 
 <p align="center">
