@@ -195,25 +195,12 @@ Always happy to collaborate on interesting projects
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Panda-design&show_icons=true&theme=transparent&hide_border=true&title_color=c8430f&icon_color=c8430f&text_color=c8c0b8&ring_color=c8430f" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush-Panda-design&theme=transparent&hide_border=true&ring=c8430f&fire=c8430f&currStreakLabel=c8430f&sideLabels=6b5c4a&currStreakNum=c8c0b8&sideNums=c8c0b8&dates=6b5c4a" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Panda-design&show_icons=true&count_private=true&theme=radical&hide_border=true&title_color=c8430f&icon_color=c8430f&text_color=c8c0b8&bg_color=1a1410" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Panda-design&layout=compact&theme=radical&hide_border=true&title_color=c8430f&text_color=c8c0b8&bg_color=1a1410" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Panda-design&layout=compact&theme=transparent&hide_border=true&title_color=c8430f&text_color=c8c0b8" height="160" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Panda-design&theme=react-dark&hide_border=true&bg_color=00000000&color=c8430f&line=c8430f&point=c8c0b8" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ayush-Panda-design&theme=transparent&hide_border=true&title_color=c8430f&text_color=c8c0b8&layout=compact" height="160" />
-</p>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-Panda-design&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
+  <img src="https://streak-stats.demolab.com?user=Ayush-Panda-design&theme=radical&hide_border=true&background=1A1410&ring=C8430F&fire=C8430F&currStreakLabel=C8430F" height="165" />
 </p>
 
 <br/>
