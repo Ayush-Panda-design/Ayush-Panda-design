@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=36&pause=1000&color=C8430F&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ayush+Panda+%F0%9F%91%8B;Full-Stack+Developer;Building+production-grade+products;I+ship+things+that+actually+run." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=36&pause=1000&color=C8430F&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ayush+Panda+%F0%9F%91%8B;Software+Developer;Building+production-grade+products;I+ship+things+that+actually+run." alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/CS%20Undergrad-VSSUT%20Burla-1a1410?style=for-the-badge&labelColor=c8430f" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Freelance-1a1410?style=for-the-badge&labelColor=c8430f" />
+<img src="https://img.shields.io/badge/Focus-Software%20Development-1a1410?style=for-the-badge&labelColor=c8430f" />
 
 <br/><br/>
 
@@ -25,19 +26,22 @@
 
 ```ts
 const ayush = {
-  role: "Full-Stack Developer",
+  role: "Software Developer",
   education: "CS Undergrad @ VSSUT, Burla (4th Semester)",
   approach: "End-to-end builder — data model, API, frontend, infra",
   philosophy: "Type-safety first. Ship things that hold up in production.",
-  currentlyExploring: "Generative AI & LLM-powered product workflows",
+  currentlyExploring: ["Generative AI", "LLM-powered product workflows", "System Design"],
+  funFact: "I read API docs for fun.",
 };
 ```
 
 - 🏗️ Shipped **two production-grade products** — **EdinForm** & **Votora** — handling real auth flows, WebSocket sync, rate limiting, caching, CI/CD, and analytics
 - 🗄️ Comfortable across **MongoDB** and **PostgreSQL** — pick whatever fits the data model
 - 🤖 Integrating **LLMs** into real product workflows (RAG, automation, AI features)
+- 🧠 Strong fundamentals in **DSA, system design, and clean architecture**
 - ✍️ Writing about what I build, on [Hashnode](https://hashnode.com/@Ayush-Panda)
 - 🌱 Always shipping — quick experiments, SaaS tools, REST APIs, real-time apps
+- 🎯 Currently looking for **internships & freelance software development work**
 
 <br/>
 
@@ -61,6 +65,7 @@ const ayush = {
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 **Backend**
 
@@ -157,6 +162,36 @@ Production-grade polling and quiz platform with live WebSocket sync, anti-cheat 
 
 <br/>
 
+## 🧭 What I'm Looking For
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**💼 Internships**
+<br/>
+Software Development roles where I can contribute to real codebases
+
+</td>
+<td align="center" width="33%">
+
+**🤝 Freelance**
+<br/>
+Full-stack builds, API integrations, and AI-powered features
+
+</td>
+<td align="center" width="33%">
+
+**🌍 Open Source**
+<br/>
+Always happy to collaborate on interesting projects
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -169,9 +204,33 @@ Production-grade polling and quiz platform with live WebSocket sync, anti-cheat 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Panda-design&theme=react-dark&hide_border=true&bg_color=00000000&color=c8430f&line=c8430f&point=c8c0b8" height="160" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ayush-Panda-design&theme=transparent&hide_border=true&title_color=c8430f&text_color=c8c0b8&layout=compact" height="160" />
+</p>
+
 <br/>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-Panda-design&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
+</p>
+
+<br/>
+
+## 📬 Let's Connect
+
 <div align="center">
+
+I'm always up for a conversation about software, products, or interesting problems to solve.
+Reach out — I usually reply fast.
+
+<a href="https://www.linkedin.com/in/ayush-panda-a04280215/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/AyushPanda85699"><img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://hashnode.com/@Ayush-Panda"><img src="https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+<a href="mailto:pandaayush25305@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-c8430f?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayush-Panda-design.Ayush-Panda-design&left_color=1a1410&right_color=c8430f&left_text=Profile%20Views" />
 
