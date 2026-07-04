@@ -195,17 +195,23 @@ Always happy to collaborate on interesting projects
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Ayush-Panda-design?style=for-the-badge&color=c8430f&labelColor=1a1410&label=Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=c8430f&labelColor=1a1410&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Ayush-Panda-design" />
+  <img src="https://github-readme-stats.demolab.com/api?username=Ayush-Panda-design&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=1A1410&title_color=C8430F&icon_color=C8430F&text_color=ffffff" height="165" />
+  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=Ayush-Panda-design&layout=compact&theme=radical&hide_border=true&bg_color=1A1410&title_color=C8430F&text_color=ffffff" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayush-Panda-design&theme=radical&hide_border=true&background=1A1410&ring=C8430F&fire=C8430F&currStreakLabel=C8430F" height="165" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=Ayush-Panda-design&theme=radical&hide_border=true&background=1A1410&ring=C8430F&fire=C8430F&currStreakLabel=C8430F" height="165" />
 </p>
 
 <p align="center">
-  <em>Live commit / PR / language breakdown is temporarily unavailable due to an outage on the public stats service — will restore once it's back up.</em>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-Panda-design&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Panda-design&theme=react-dark&bg_color=1A1410&color=C8430F&line=C8430F&point=ffffff&area=true&hide_border=true" width="95%" />
+</p>
+
+> 💡 **Note:** Stats cards are served live from `demolab.com` (a stable mirror), not the sometimes-overloaded default `vercel.app` stats endpoint — so commit, PR, and language data should load reliably. If a card ever shows a loading/error state, it's almost always a temporary cache refresh on the stats service, not a broken link — just reload the page.
 
 <br/>
 
