@@ -30,17 +30,17 @@ const ayush = {
   education: "CS Undergrad @ VSSUT, Burla (4th Semester)",
   approach: "End-to-end builder — data model, API, frontend, infra",
   philosophy: "Type-safety first. Ship things that hold up in production.",
-  currentlyExploring: ["Generative AI", "LLM-powered product workflows", "System Design"],
+  currentlyExploring: ["Generative AI", "Agentic workflows", "System Design"],
   funFact: "I read API docs for fun.",
 };
 ```
 
-- 🏗️ Shipped **two production-grade products** — **EdinForm** & **Votora** — handling real auth flows, WebSocket sync, rate limiting, caching, CI/CD, and analytics
+- 🏗️ Shipped **four production-grade products** — **EdinForm**, **Votora**, **ShipFlow AI** & **Relvion AI** — spanning auth flows, WebSocket sync, AI agents, GitHub App integrations, and background job pipelines
 - 🗄️ Comfortable across **MongoDB** and **PostgreSQL** — pick whatever fits the data model
-- 🤖 Integrating **LLMs** into real product workflows (RAG, automation, AI features)
+- 🤖 Building real AI-powered product workflows — RAG, agentic review pipelines, AI-assisted planning, email/calendar copilots
 - 🧠 Strong fundamentals in **DSA, system design, and clean architecture**
 - ✍️ Writing about what I build, on [Hashnode](https://hashnode.com/@Ayush-Panda)
-- 🌱 Always shipping — quick experiments, SaaS tools, REST APIs, real-time apps
+- 🌱 Always shipping — hackathon builds, SaaS tools, REST APIs, real-time apps
 - 🎯 Currently looking for **internships & freelance software development work**
 
 <br/>
@@ -66,6 +66,7 @@ const ayush = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 **Backend**
 
@@ -84,7 +85,9 @@ const ayush = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logoColor=white)
 
 **DevOps & Infra**
 
@@ -99,9 +102,10 @@ const ayush = {
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-c8430f?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-4A90D9?style=for-the-badge&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white)
 
 </td>
 </tr>
@@ -111,12 +115,7 @@ const ayush = {
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 EdinForm
-**Production-Style Form Builder SaaS**
+### 🧩 EdinForm — Production-Style Form Builder SaaS
 
 Typeform-style form builder on a **Turborepo monorepo** — tRPC, Zod, Drizzle ORM, Scalar API docs, and a real product feel.
 
@@ -134,11 +133,9 @@ Typeform-style form builder on a **Turborepo monorepo** — tRPC, Zod, Drizzle O
 
 🌐 **[edinform.in](https://edinform.in)** &nbsp;·&nbsp; 📦 **[Repo](https://github.com/Ayush-Panda-design/EdinForm11)** &nbsp;·&nbsp; 📡 **[API Docs](https://edinform11-2.onrender.com/docs)**
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### 📊 Votora
-**Real-Time Polling & Live Feedback Platform**
+### 📊 Votora — Real-Time Polling & Live Feedback Platform
 
 Production-grade polling and quiz platform with live WebSocket sync, anti-cheat engine, and MongoDB aggregation analytics.
 
@@ -154,11 +151,57 @@ Production-grade polling and quiz platform with live WebSocket sync, anti-cheat 
 - 📤 CSV export · httpOnly JWT cookies
 - 🛡️ Rate limiting
 
-🌐 **[Live Demo](https://votora-client-jaam.vercel.app/poll/43039481)**
+📦 **[Repo](https://github.com/Ayush-Panda-design/Votora-Real-Time-Polling-Platform)** &nbsp;·&nbsp; 🌐 **[Live Demo](https://votora-client-jaam.vercel.app/poll/43039481)**
 
-</td>
-</tr>
-</table>
+<br/>
+
+### ⚙️ ShipFlow AI — From Customer Idea to Shipped Code
+
+An agentic delivery-pipeline SaaS that keeps every feature request on one thread — from intake and clarification, through requirements and tasks, to GitHub PR review and human-gated release. Built for a ChaiCode hackathon ("Builder Mode On | iPhone Giveaway Hackathon").
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_Neon-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-000000?style=flat-square&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+
+**The delivery loop:** feature request → AI clarify → requirements doc → engineering tasks → plan approval → development → GitHub PR → AI review → release readiness → human approval → shipped.
+
+- 🧠 **Clarification agent** — AI asks follow-up questions, flags duplicates, uses repo context
+- 📋 **Requirements & task generation** — turns approved requirements into a kanban-ready task breakdown
+- 🔍 **Requirements-aware PR review** — AI reviews diffs against the original spec with blocking vs non-blocking findings, inline GitHub comments, and a GitHub Check
+- ✅ **Human-gated release** — nothing ships without explicit approval; approved PRs can auto-merge
+- 🔗 **GitHub-native** — installable GitHub App (OAuth for sign-in, separate App for repo/webhook access), syncs PRs and posts checks where developers already work
+- 💳 Optional Razorpay monthly Pro subscription with automatic downgrade on expiry
+- 🧵 Background workflows (PR review, release readiness, stale-PR nudges, subscription expiry) run on **Inngest**; clarify/requirements/tasks run inline in the app for fast feedback
+
+🌐 **[shipflowai.in](https://shipflowai.in)** &nbsp;·&nbsp; 🖥️ **[Live Demo](https://ai-powered-code-review-web.vercel.app)** &nbsp;·&nbsp; 📦 **[Repo](https://github.com/Ayush-Panda-design/ShipFlowAI)**
+
+<br/>
+
+### ⚡ Relvion AI — Superhuman-Style Email & Calendar Client
+
+A keyboard-first Gmail + Google Calendar client that replaces multi-click workflows with one-action, AI-powered shortcuts — built on **Corsair** (for Gmail/Calendar API access + webhooks) and **Gemini 2.5 Flash**.
+
+![Next.js](https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+- ✉️ 1-click AI email summaries instead of reading full threads
+- 📅 Schedule meetings via chat instead of multi-step calendar clicks
+- 📥 Automatic AI-driven priority inbox sorting
+- ⚡ Local **pgvector** search — sub-second results instead of relying on slow remote search
+- 🧠 AI agent chat wired through Corsair MCP (`ClaudeProvider`)
+- 🔔 Real-time Gmail + Calendar sync via Corsair webhooks
+- ⌨️ Keyboard shortcuts + command palette for a fully keyboard-first flow
+
+Built for the Corsair "Builder Mode On | MacBook Giveaway Hackathon" (`#chaicode #corsair-dev`).
+
+📦 **[Repo](https://github.com/Ayush-Panda-design/Relvion-AI)**
 
 <br/>
 
