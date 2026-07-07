@@ -4,9 +4,9 @@
 
 <br/>
 
+<a href="https://ayushdev-five.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ayushdev--five.vercel.app-1a1410?style=for-the-badge&labelColor=c8430f" /></a>
 <img src="https://img.shields.io/badge/CS%20Undergrad-VSSUT%20Burla-1a1410?style=for-the-badge&labelColor=c8430f" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Freelance-1a1410?style=for-the-badge&labelColor=c8430f" />
-<img src="https://img.shields.io/badge/Focus-Software%20Development-1a1410?style=for-the-badge&labelColor=c8430f" />
 
 <br/><br/>
 
@@ -22,12 +22,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=c8430f&height=120&section=header" width="100%"/>
 
+## 🌐 Portfolio
+
+**[ayushdev-five.vercel.app](https://ayushdev-five.vercel.app/)** — case studies, a live practice trail of 19+ smaller builds, my ATS resume (PDF), and writing, all in one place. Worth a look before the README — it's the fuller picture.
+
+<br/>
+
 ## 👨‍💻 About Me
 
 ```ts
 const ayush = {
-  role: "Software Developer",
-  education: "CS Undergrad @ VSSUT, Burla (4th Semester)",
+  role: "Full-Stack Developer",
+  education: "CS Undergrad @ VSSUT, Burla — 5th Semester, CGPA 8.27",
   approach: "End-to-end builder — data model, API, frontend, infra",
   philosophy: "Type-safety first. Ship things that hold up in production.",
   currentlyExploring: ["Generative AI", "Agentic workflows", "System Design"],
@@ -40,7 +46,7 @@ const ayush = {
 - 🤖 Building real AI-powered product workflows — RAG, agentic review pipelines, AI-assisted planning, email/calendar copilots
 - 🧠 Strong fundamentals in **DSA, system design, and clean architecture**
 - ✍️ Writing about what I build, on [Hashnode](https://hashnode.com/@Ayush-Panda)
-- 🌱 Always shipping — hackathon builds, SaaS tools, REST APIs, real-time apps
+- 🌱 Always shipping — 20+ projects between production products and a hands-on practice trail
 - 🎯 Currently looking for **internships & freelance software development work**
 
 <br/>
@@ -66,7 +72,8 @@ const ayush = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 **Backend**
 
@@ -75,6 +82,7 @@ const ayush = {
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-c8430f?style=for-the-badge&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
@@ -85,6 +93,7 @@ const ayush = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logoColor=white)
@@ -131,7 +140,7 @@ Typeform-style form builder on a **Turborepo monorepo** — tRPC, Zod, Drizzle O
 - 🔒 Response limits, expiry, rate limiting
 - 📚 Full Scalar API docs
 
-🌐 **[edinform.in](https://edinform.in)** &nbsp;·&nbsp; 📦 **[Repo](https://github.com/Ayush-Panda-design/EdinForm11)** &nbsp;·&nbsp; 📡 **[API Docs](https://edinform11-2.onrender.com/docs)**
+🌐 **[edinform.in](https://edinform.in)** &nbsp;·&nbsp; 📦 **[Repo](https://github.com/Ayush-Panda-design/EdinForm11)** &nbsp;·&nbsp; 📡 **[API Docs](https://edinform11-2.onrender.com/docs)** &nbsp;·&nbsp; 📝 **[Case Study](https://ayushdev-five.vercel.app/projects/edinform)**
 
 <br/>
 
@@ -205,6 +214,15 @@ Built for the Corsair "Builder Mode On | MacBook Giveaway Hackathon" (`#chaicode
 
 <br/>
 
+## 🧗 Practice Trail
+
+Beyond the four flagship products, my [portfolio's practice trail](https://ayushdev-five.vercel.app/#learning) hosts **19 smaller, concept-first builds** made *while* learning — not just after — spanning UI/CSS, JS/React, APIs, Firebase, backend, realtime, and data modeling. A couple of highlights:
+
+- **Cursor AI Clone** — marketing-page recreation for structure, typography, and responsive CSS practice ([Code](https://github.com/Ayush-Panda-design/Cursor-AI-Clone) · [Demo](https://cursor-ai-clone.vercel.app))
+- **Airbnb UI** — spotlight, beams, filters, wishlist, and listing detail in an Aceternity-style build
+
+<br/>
+
 ## 🧭 What I'm Looking For
 
 <table align="center">
@@ -265,6 +283,7 @@ Always happy to collaborate on interesting projects
 I'm always up for a conversation about software, products, or interesting problems to solve.
 Reach out — I usually reply fast.
 
+<a href="https://ayushdev-five.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-c8430f?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/ayush-panda-a04280215/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/AyushPanda85699"><img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://hashnode.com/@Ayush-Panda"><img src="https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
