@@ -256,27 +256,12 @@ Always happy to collaborate on interesting projects
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Panda-design&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=1A1410&title_color=C8430F&icon_color=C8430F&text_color=ffffff&cache_seconds=1800" height="165" alt="Ayush's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Panda-design&layout=compact&theme=radical&hide_border=true&bg_color=1A1410&title_color=C8430F&text_color=ffffff&cache_seconds=1800" height="165" alt="Top languages" />
+  <img src="./github-metrics.svg" alt="Ayush Panda's GitHub metrics" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayush-Panda-design&theme=radical&hide_border=true&background=1A1410&ring=C8430F&fire=C8430F&currStreakLabel=C8430F" height="165" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-Panda-design&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Panda-design&theme=react-dark&bg_color=1A1410&color=C8430F&line=C8430F&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
-</p>
-
-> ⚠️ **Why these sometimes break, and how to keep them up:** these cards aren't files in your repo — each `<img>` tag calls a free, community-run Vercel service live, every time your profile loads. Those services get rate-limited or occasionally go down for everyone, not just you (see [anuraghazra/github-readme-stats#4798](https://github.com/anuraghazra/github-readme-stats/issues/4798)). If a card breaks, it's the upstream service, not your README markup.
+> These stats are **not** a live call to a third-party server — they're a static SVG committed straight into this repo by the `Update profile metrics` GitHub Action (`.github/workflows/profile-metrics.yml`), which runs on a daily schedule using [lowlighter/metrics](https://github.com/lowlighter/metrics). No shared Vercel instance, no GitHub API rate-limit roulette, nothing to go down. If the image ever looks stale, check the **Actions** tab in this repo — the workflow can also be triggered manually (`workflow_dispatch`).
 >
-> **Two ways to make this bulletproof:**
-> 1. **Quick fix** — bump the `cache_seconds` value (or add `&v=<today's date>`) in the stats-card URLs above whenever you touch this file. It forces a fresh fetch instead of GitHub serving you a stale/broken cached image.
-> 2. **Permanent fix** — self-host with the [`github-readme-stats` GitHub Action generator](https://github.com/anuraghazra/github-readme-stats/discussions/4692), which commits a static SVG straight to this repo on a schedule. Zero dependency on a third-party server ever going down again. Worth doing once you have 10 minutes.
+> *(Why the switch: the old cards called `github-readme-stats.vercel.app` and similar free public endpoints directly on every profile view. Their maintainers openly document that the shared public instance is "best-effort and can be unreliable due to rate limits and traffic spikes" — that's why they kept breaking regardless of theme/param tweaks. Self-hosting via Action removes that dependency entirely.)*
 
 <br/>
 
