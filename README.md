@@ -256,23 +256,27 @@ Always happy to collaborate on interesting projects
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.demolab.com/api?username=Ayush-Panda-design&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=1A1410&title_color=C8430F&icon_color=C8430F&text_color=ffffff" height="165" />
-  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=Ayush-Panda-design&layout=compact&theme=radical&hide_border=true&bg_color=1A1410&title_color=C8430F&text_color=ffffff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Panda-design&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=1A1410&title_color=C8430F&icon_color=C8430F&text_color=ffffff&cache_seconds=1800" height="165" alt="Ayush's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Panda-design&layout=compact&theme=radical&hide_border=true&bg_color=1A1410&title_color=C8430F&text_color=ffffff&cache_seconds=1800" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Ayush-Panda-design&theme=radical&hide_border=true&background=1A1410&ring=C8430F&fire=C8430F&currStreakLabel=C8430F" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Ayush-Panda-design&theme=radical&hide_border=true&background=1A1410&ring=C8430F&fire=C8430F&currStreakLabel=C8430F" height="165" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-Panda-design&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-Panda-design&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Panda-design&theme=react-dark&bg_color=1A1410&color=C8430F&line=C8430F&point=ffffff&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Panda-design&theme=react-dark&bg_color=1A1410&color=C8430F&line=C8430F&point=ffffff&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
 </p>
 
-> 💡 **Note:** Stats cards are served live from `demolab.com` (a stable mirror), not the sometimes-overloaded default `vercel.app` stats endpoint — so commit, PR, and language data should load reliably. If a card ever shows a loading/error state, it's almost always a temporary cache refresh on the stats service, not a broken link — just reload the page.
+> ⚠️ **Why these sometimes break, and how to keep them up:** these cards aren't files in your repo — each `<img>` tag calls a free, community-run Vercel service live, every time your profile loads. Those services get rate-limited or occasionally go down for everyone, not just you (see [anuraghazra/github-readme-stats#4798](https://github.com/anuraghazra/github-readme-stats/issues/4798)). If a card breaks, it's the upstream service, not your README markup.
+>
+> **Two ways to make this bulletproof:**
+> 1. **Quick fix** — bump the `cache_seconds` value (or add `&v=<today's date>`) in the stats-card URLs above whenever you touch this file. It forces a fresh fetch instead of GitHub serving you a stale/broken cached image.
+> 2. **Permanent fix** — self-host with the [`github-readme-stats` GitHub Action generator](https://github.com/anuraghazra/github-readme-stats/discussions/4692), which commits a static SVG straight to this repo on a schedule. Zero dependency on a third-party server ever going down again. Worth doing once you have 10 minutes.
 
 <br/>
 
