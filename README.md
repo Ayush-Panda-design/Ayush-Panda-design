@@ -256,12 +256,23 @@ Always happy to collaborate on interesting projects
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Ayush Panda's GitHub metrics" width="100%" />
+  <img src="https://github-readme-stats.demolab.com/api?username=Ayush-Panda-design&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=1A1410&title_color=C8430F&icon_color=C8430F&text_color=ffffff" height="165" />
+  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=Ayush-Panda-design&layout=compact&theme=radical&hide_border=true&bg_color=1A1410&title_color=C8430F&text_color=ffffff" height="165" />
 </p>
 
-> These stats are **not** a live call to a third-party server — they're a static SVG committed straight into this repo by the `Update profile metrics` GitHub Action (`.github/workflows/profile-metrics.yml`), which runs on a daily schedule using [lowlighter/metrics](https://github.com/lowlighter/metrics). No shared Vercel instance, no GitHub API rate-limit roulette, nothing to go down. If the image ever looks stale, check the **Actions** tab in this repo — the workflow can also be triggered manually (`workflow_dispatch`).
->
-> *(Why the switch: the old cards called `github-readme-stats.vercel.app` and similar free public endpoints directly on every profile view. Their maintainers openly document that the shared public instance is "best-effort and can be unreliable due to rate limits and traffic spikes" — that's why they kept breaking regardless of theme/param tweaks. Self-hosting via Action removes that dependency entirely.)*
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=Ayush-Panda-design&theme=radical&hide_border=true&background=1A1410&ring=C8430F&fire=C8430F&currStreakLabel=C8430F" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-Panda-design&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Panda-design&theme=react-dark&bg_color=1A1410&color=C8430F&line=C8430F&point=ffffff&area=true&hide_border=true" width="95%" />
+</p>
+
+> 💡 **Note:** Stats cards are served live from `demolab.com` (a stable mirror), not the sometimes-overloaded default `vercel.app` stats endpoint — so commit, PR, and language data should load reliably. If a card ever shows a loading/error state, it's almost always a temporary cache refresh on the stats service, not a broken link — just reload the page.
 
 <br/>
 
